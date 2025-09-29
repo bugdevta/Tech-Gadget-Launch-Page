@@ -17,7 +17,7 @@
       <b>Your New WebDev Teacher</b>
     </h1>
     <img
-      src="./images/roboTeach.jpg"
+      src="/images/roboTeach.jpg"
       alt="robot teacher"
       style="display: block; margin-left: auto; margin-right: auto; width: 50%"
     />
