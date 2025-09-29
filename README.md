@@ -8,8 +8,8 @@ Sec - A
 
 tags used :
 
-<!DOCTYPE>
-<html>
+!DOCTYPE
+html
 <head>
 <meta>
 <title>
