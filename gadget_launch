@@ -81,7 +81,9 @@
       <br />
     </ul>
     <hr />
-
+<h3 style="text-align: center; color: rgb(62, 83, 138)">
+    Robo Teach Versions Comparison
+  </h3>
     <table style="margin: 0 auto; border-collapse: collapse; font-size: 18px">
       <thead>
         <tr style="background-color: #f0f6fc">
@@ -144,7 +146,4 @@
     </p>
   </body>
 
-  <h3 style="text-align: center; color: rgb(62, 83, 138)">
-    Robo Teach Versions Comparison
-  </h3>
 </html>
