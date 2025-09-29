@@ -8,3 +8,26 @@ Sec - A
 
 tags used :
 
+<!DOCTYPE>
+<html>
+<head>
+<meta>
+<title>
+<body>
+<h1>
+<b>
+<img>
+<h2>
+<p>
+<br>
+<hr>
+<h3>
+<ul>
+<li>
+<table>
+<thead>
+<tr>
+<th>
+<tbody>
+<td>
+<a>
