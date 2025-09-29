@@ -8,7 +8,7 @@ Sec - A
 
 tags used :
 
-<!-- <!DOCTYPE>
+<!DOCTYPE>
 <html>
 <head>
 <meta>
@@ -30,4 +30,4 @@ tags used :
 <th>
 <tbody>
 <td>
-<a> -->
+<a> 
